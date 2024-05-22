@@ -16,19 +16,19 @@ global.socialm = "GitHub: Fraszz" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Fraszz Bot MD V13' //ur bot Name
-global.ownernumber = '628981609354' //ur owner number
-global.ownername = 'Fraszz' //ur owner name
-global.websitex = "https://www.youtube.com/@FraszHost"
+global.botname = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎Bot MD V13' //ur bot Name
+global.ownernumber = '22395064497' //ur owner number
+global.ownername = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎' //ur owner name
+global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
-global.themeemoji = '🪀'
+global.themeemoji = '🦋'
 global.wm = "Fraszz Bot Inc."
-global.botscript = 'https://github.com/Fraszz/CheemsBot-MD13' //script link
+global.botscript = 'https://github.com/Gola223/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Fraszz\n\n+628981609354"
-global.creator = "628981609354@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["628981609354"] // Premium User
+global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎\n\n+22395064497"
+global.creator = "22395064497@s.whatsapp.net"
+global.xprefix = '+'
+global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 
 //bot sett
