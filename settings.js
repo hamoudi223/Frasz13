@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '🇲🆁𝐷𝛯𝛥𝑇𝛨✘☤ᵗᵉᶜʰ™️✞𝙤𝙛𝙛𝙞𝙘𝙞𝙚𝙡➽➴' //ur bot Name
-global.ownernumber = '639516934329' //ur owner number
+global.ownernumber = '237693832446' //ur owner number
 global.ownername = '~🇲🆁𝐷𝛯𝛥𝑇𝛨✘☤ᵗᵉᶜʰ™️✞𝙤𝙛𝙛𝙞𝙘𝙞𝙚𝙡➽➴' //ur owner name
 global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
@@ -26,9 +26,9 @@ global.wm = "Fraszz Bot Inc."
 global.botscript = 'https://github.com/Gola223/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "~🇲🆁𝐷𝛯𝛥𝑇𝛨✘☤ᵗᵉᶜʰ™️✞𝙤𝙛𝙛𝙞𝙘𝙞𝙚𝙡➽➴\n\n+639516934329"
-global.creator = "639516934329@s.whatsapp.net"
+global.creator = "237693832446@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["639516934329"] // Premium User
+global.premium = ["237693832446"] // Premium User
 global.hituet = 0
 
 //bot sett
